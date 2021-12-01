@@ -49,10 +49,10 @@
 
 ### NOTABLE GITHUB REPO
 
-GitHub issues:	GitHub issues badge	<img src="https://img.shields.io/github/issues/LTEXCOIN/assets">
-GitHub forks:	GitHub forks badge	<img src="https://img.shields.io/github/forks/LTEXCOIN/assets">
-GitHub stars:	GitHub stars badge	<img src="https://img.shields.io/github/stars/LTEXCOIN/assets">
-GitHub license:	GitHub license badge	<img src="https://img.shields.io/github/license/LTEXCOIN/assets">
+GitHub issues:	GitHub issues badge	<img src="https://img.shields.io/github/issues/LTEXCOIN/assets"> <br>
+GitHub forks:	GitHub forks badge	<img src="https://img.shields.io/github/forks/LTEXCOIN/assets"><br>
+GitHub stars:	GitHub stars badge	<img src="https://img.shields.io/github/stars/LTEXCOIN/assets"><br>
+GitHub license:	GitHub license badge	<img src="https://img.shields.io/github/license/LTEXCOIN/assets"><br>
 Twitter:	Twitter badge	<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FLTEXCOIN%2Fassets">
 
 
