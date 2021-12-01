@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a PHP Developer, Software Engineer and also support person
+#### I'm a Coin Lover, owner of _ltradex.i_, Software Engineer and also support person
 
 ##### NOW
 
