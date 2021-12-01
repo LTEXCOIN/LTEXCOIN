@@ -16,15 +16,12 @@
 
 ##### EXPERIENCE
 
--**TigerIT** Bangladesh Limited.
-   - Implemented websites, mobile applications, and management system from concept through deployment.
-   - Collaborating closely with the team to support projects during all phases of delivery.
-   - Building, testing, maintaining and supporting large applications.
-   - Building websites and apps that are responsive and usable.
-   - Maintaining an organized workflow using a project management tool (like GitLab).
-   - Communicating technical issues in an understandable manner to the team and clients.
-   - Identifying innovative ideas and proof of concepts according to project requirements.
-   - Testing to identify bugs and technical issues before and after deploying.
+-**https://ltradex.io/**
+   - Distribute Coin
+   - Trade Coin
+   - Sell Coin
+   - Buy Coin
+   - Manage Coin
 
     
 
@@ -52,7 +49,7 @@
 
 ### NOTABLE GITHUB REPO
 
-GitHub issues:	GitHub issues badge	https://img.shields.io/github/issues/LTEXCOIN/assets
+GitHub issues:	GitHub issues badge	<img src="https://img.shields.io/github/issues/LTEXCOIN/assets">
 GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/LTEXCOIN/assets
 GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/LTEXCOIN/assets
 GitHub license:	GitHub license badge	https://img.shields.io/github/license/LTEXCOIN/assets
